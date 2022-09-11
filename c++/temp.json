@@ -1,0 +1,10 @@
+[{
+    "name":"chitra",
+    "age":22 ,
+    "place":"delhi"
+},
+{
+    "name" :"yash",
+    "age" :21,
+    "place" :"gurgaon"
+}]
